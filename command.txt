@@ -1,0 +1,60 @@
+    1  cd Downloads
+    2  cd burp
+    3  cat keygen.jar
+    4  ./keygen.jar
+    5  java -jar keygen.jar
+    6  apt update
+    7  apt upgrade
+    8  cd Downloads
+    9  cd burp
+   10  java -jar keygen.jar
+   11  cd Downloads
+   12  ls
+   13  mkdir burp
+   14  ls
+   15  nano burp.txt
+   16  ls
+   17  mv burp.txt burp
+   18  ls
+   19  chmod 777 *
+   20  ls
+   21  mkdir burp1
+   22  mv burpsuite_pro_v2022.8.5.jar burp1
+   23  mv keygen.jar burp
+   24  mv loader.jar burp
+   25  ls
+   26  rm -rf burn-my-windowsschneegans.github.com.v43.shell-extension.zip
+   27  ls
+   28  cd  burp
+   29  ls
+   30  cat burp.txt
+   31  clear
+   32  ls
+   33  cat burp.txt
+   34  java --illegal-access=permit -Dfile.encoding=utf-8  -javaagent:/home/indrajeet/Downloads/burp/loader.jar -noverify -jar /home/indrajeet/Downloads/burp1/burpsuite_pro_v2022.8.5.jar\n
+   35  netdiscover 
+   36  ping 192.168.0.133
+   37  nmap 192.168.0.133\n
+   38  nmap -sV -sC -v 192.168.0.133\n
+   39  firefox &
+   40  pwd
+   41  git version
+   42  apt install git -y
+   43  cat /etc/os-release
+   44  ls
+   45  cd Desktop
+   46  ls
+   47  mkdir -pv Git-all
+   48  ls
+   49  cd Git-all
+   50  pwd
+   51  ls -a
+   52  git init .
+   53  ls -a
+   54  git remote -v
+   55  git remote add origin https://github.com/indrajeetsahoo/studydata.git
+   56  git remote -v
+   57  ls
+   58  git list 
+   59  git status
+   60  history
